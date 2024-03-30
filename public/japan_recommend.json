@@ -1,0 +1,15 @@
+{"type":"FeatureCollection","metadata":{"generated":"2023, Inoue Riku","notice":"現在作成中です"},
+"features":
+[
+{"type":"Feature",
+"properties":{"pref":1,"name":"北海道","percentile":1,"positions": [
+    { "number":1,"image": "shiretoko","city": "知床","feature":"世界遺産"},
+    { "number":2,"image": "hakodate","city": "函館","feature":"世界遺産"},
+    { "number":3,"image": "obihiro","city": "帯広","feature":"世界遺産"}]},
+"geometry":{"type":"MultiPolygon","coordinates":[[145.1626,44.1409],[140.7288,41.7687],[143.1961,42.9238]]}},
+
+{"type":"Feature","properties":{"pref":2,"name":"青森県","percentile":1},
+"geometry":{"type":"MultiPolygon","coordinates":[[140.851119,40.894197],[140.849961,40.893888],[140.848625,40.894137]]}}
+
+]
+}

@@ -1,0 +1,4 @@
+.registersheet{
+    display:flex;
+    flex-direction: column;
+}

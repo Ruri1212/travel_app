@@ -1,0 +1,18 @@
+/* マップ画面とsheet画面 */
+.content {
+    display: flex;
+    flex-direction: row;
+}
+
+.button {
+    float: right;
+    width: 180px;
+    display: flex;
+    flex-direction: column;    
+}
+/* .addmemorybutton {
+    float: right;
+} */
+.registerbutton {
+    width: 180px;
+} 

@@ -1,0 +1,7 @@
+.date {
+    display: flex;
+    flex-direction: colmun;    
+}
+.sheet {
+    width: 350px;
+}
