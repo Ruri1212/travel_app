@@ -395,7 +395,7 @@ function App() {
             }            
         </Map>
 
-        <Cardlist/>
+        {/* <Cardlist/>
 
         {isclickedrecommend && //おすすめ地点を表示するシート
             <RecommendSheet {...recommendsheet}/>
@@ -403,7 +403,7 @@ function App() {
 
         {isclickedregister && //登録済み地点を表示するシート
             <RegisterSheet  {...registersheet}/>
-        }
+        } */}
 
         
         {isclickedaddmemory && //Add Memoryボタンんを押した場合に地点登録用のシートを表示
